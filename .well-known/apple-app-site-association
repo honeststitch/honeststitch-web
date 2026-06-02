@@ -1,0 +1,16 @@
+{
+     "applinks": {
+       "apps": [],
+       "details": [
+         {
+           "appID": "29KYKCTQV2.com.johnathanrondeau.HonestStitch",
+           "paths": [
+             "/itinerary/*",
+             "/place/*",
+             "/user/*",
+             "/review/*"
+           ]
+         }
+       ]
+     }
+   }
